@@ -1,0 +1,7 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/helensirenko/CLionProjects/ps -B /Users/helensirenko/CLionProjects/ps/cmake-build-debug
+CMake Error at CMakeLists.txt:7:
+  Parse error.  Expected a command name, got unquoted argument with text
+  "libft:".
+
+
+-- Configuring incomplete, errors occurred!
